@@ -1,0 +1,29 @@
+{
+  "name": "jamkit-react-components",
+  "version": "0.0.1",
+  "description": "A React components suite like jamkit",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bookjam/jamkit-react-components.git"
+  },
+  "keywords": [
+    "jamkit",
+    "react",
+    "components"
+  ],
+  "author": "Hanyeol Cho <hanyeol.cho@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bookjam/jamkit-react-components/issues"
+  },
+  "homepage": "https://github.com/bookjam/jamkit-react-components#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
